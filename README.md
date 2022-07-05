@@ -14,3 +14,5 @@ Example:
 pd.read_csv() - pd is short for Pandas and the interpreter looks for the read_csv() function in the Pandas library.
 
 NOTE: Pandas documentation on their website can be out-of-date with the most recent versions. One important note is that Pandas cannot read .xlsx files, only csv files, so the read_xlsx() and to_xlsx() functions DO NOT WORK. Only read_csv() and to_csv() are supported for security reasons.
+
+Read through the main.py file in this repository to get an understanding of the very basics of Pandas, including Pandas data structures data frames and series and reading from and writing to spreadsheet files.
